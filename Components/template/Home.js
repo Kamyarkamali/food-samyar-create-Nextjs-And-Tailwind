@@ -3,6 +3,7 @@ import React from 'react'
 import Attribute from '../module/Attribute'
 import Definition from '../module/Definition'
 import Slider from "../module/Slider";
+import MenuFood from './MenuFood';
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
         <Attribute/>
         <Definition/>
         <Slider/>
+        <MenuFood/>
     </div>
   )
 }
