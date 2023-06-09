@@ -1,8 +1,11 @@
 import React from 'react'
+import CatigorisePage from '@/Components/template/CatigorisePage'
 
 function index() {
   return (
-    <div>index</div>
+    <div>
+      <CatigorisePage/>
+    </div>
   )
 }
 
