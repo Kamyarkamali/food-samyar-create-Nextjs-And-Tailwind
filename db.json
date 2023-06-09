@@ -9,9 +9,9 @@
       "details": [
         { "Cuisine": "انگلیسی" },
         { "Recipe Type": "گوشت گاو" },
-        { "Difficulty": "معمولی" },
-        { "Preparation Time": "50 دقیقه" },
-        { "Cooking Time": "45 دقیقه" },
+        { "Difficulty": "medium" },
+        { "Preparation Time": "50 mins" },
+        { "Cooking Time": "45 mins" },
         { "Serves": "8" }
       ],
       "ingredients": [
@@ -41,9 +41,9 @@
       "details": [
         { "Cuisine": "چینی" },
         { "Recipe Type": "اردک" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "10 دقیقه" },
-        { "Cooking Time": "60 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "60 mins" },
         { "Serves": "2" }
       ],
       "ingredients": [
@@ -71,9 +71,9 @@
       "details": [
         { "Cuisine": "آفریقا" },
         { "Recipe Type": "تخم مرغ" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "20 دقیقه" },
-        { "Cooking Time": "5 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "5 mins" },
         { "Serves": "6" }
       ],
       "ingredients": [
@@ -110,9 +110,9 @@
       "details": [
         { "Cuisine": "مالزی" },
         { "Recipe Type": "Soup" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "5 دقیقه" },
-        { "Cooking Time": "10 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
         { "Serves": "2" }
       ],
       "ingredients": [
@@ -146,9 +146,9 @@
       "details": [
         { "Cuisine": "آمریکا" },
         { "Recipe Type": "Soup" },
-        { "Difficulty": "سخت" },
-        { "Preparation Time": "10 دقیقه" },
-        { "Cooking Time": "30 دقیقه" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "30 mins" },
         { "Serves": "4" }
       ],
       "ingredients": [
@@ -180,9 +180,9 @@
       "details": [
         { "Cuisine": "ژاپن" },
         { "Recipe Type": "Ramen" },
-        { "Difficulty": "سخت" },
-        { "Preparation Time": "5 دقیقه" },
-        { "Cooking Time": "10 دقیقه" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
         { "Serves": "1" }
       ],
       "ingredients": [
@@ -213,9 +213,9 @@
       "details": [
         { "Cuisine": "ایتالیا" },
         { "Recipe Type": "Pasta" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "5 دقیقه" },
-        { "Cooking Time": "10 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
         { "Serves": "2" }
       ],
       "ingredients": [
@@ -243,9 +243,9 @@
       "details": [
         { "Cuisine": "فرانسه" },
         { "Recipe Type": "Main" },
-        { "Difficulty": "معمولی" },
-        { "Preparation Time": "200 دقیقه" },
-        { "Cooking Time": "135 دقیقه" },
+        { "Difficulty": "medium" },
+        { "Preparation Time": "200 mins" },
+        { "Cooking Time": "135 mins" },
         { "Serves": "4" }
       ],
       "ingredients": [
@@ -285,9 +285,9 @@
       "details": [
         { "Cuisine": "ویتنام" },
         { "Recipe Type": "Slow cooker" },
-        { "Difficulty": "سخت" },
-        { "Preparation Time": "15 دقیقه" },
-        { "Cooking Time": "300 دقیقه" },
+        { "Difficulty": "Hard" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "300 mins" },
         { "Serves": "6" }
       ],
       "ingredients": [
@@ -333,9 +333,9 @@
       "details": [
         { "Cuisine": "ایتالیا" },
         { "Recipe Type": "Pasta" },
-        { "Difficulty": "معمولی" },
-        { "Preparation Time": "5 دقیقه" },
-        { "Cooking Time": "10 دقیقه" },
+        { "Difficulty": "medium" },
+        { "Preparation Time": "5 mins" },
+        { "Cooking Time": "10 mins" },
         { "Serves": "2" }
       ],
       "ingredients": [
@@ -363,9 +363,9 @@
       "details": [
         { "Cuisine": "کانادا" },
         { "Recipe Type": "Potato" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "10 دقیقه" },
-        { "Cooking Time": "25 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "25 mins" }
         { "Serves": "2" }
       ],
       "ingredients": [
@@ -393,9 +393,9 @@
       "details": [
         { "Cuisine": "هند" },
         { "Recipe Type": "Rice" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "10 دقیقه" },
-        { "Cooking Time": "35 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "10 mins" },
+        { "Cooking Time": "35 mins" },
         { "Serves": "4" }
       ],
       "ingredients": [
@@ -440,9 +440,9 @@
       "details": [
         { "Cuisine": "مکزیکی" },
         { "Recipe Type": "Tacos" },
-        { "Difficulty": "آسان" },
-        { "Preparation Time": "30 دقیقه" },
-        { "Cooking Time": "15 دقیقه" },
+        { "Difficulty": "Easy" },
+        { "Preparation Time": "30 mins" },
+        { "Cooking Time": "15 mins" },
         { "Serves": "4" }
       ],
       "ingredients": [
@@ -477,9 +477,9 @@
       "details": [
         { "Cuisine": "Thai" },
         { "Recipe Type": "Main" },
-        { "Difficulty": "معمولی" },
-        { "Preparation Time": "20 دقیقه" },
-        { "Cooking Time": "10 دقیقه" },
+        { "Difficulty": "medium" },
+        { "Preparation Time": "20 mins" },
+        { "Cooking Time": "10 mins" },,
         { "Serves": "4" }
       ],
       "ingredients": [
@@ -512,9 +512,9 @@
       "details": [
         { "Cuisine": "خاورمیانه" },
         { "Recipe Type": "Falafel pitta" },
-        { "Difficulty": "معمولی" },
-        { "Preparation Time": "15 دقیقه" },
-        { "Cooking Time": "20 دقیقه" },
+        { "Difficulty": "medium" },
+        { "Preparation Time": "15 mins" },
+        { "Cooking Time": "20 mins" },
         { "Serves": "6" }
       ],
       "ingredients": [

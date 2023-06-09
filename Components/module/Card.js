@@ -6,9 +6,8 @@ const dollar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpSjVu0gALX
 
 function Card(props) {
     const {id,name,price,discount,introduction,details}=props;
-    console.log(props)
   return (
-    <div className='relative bg-red-500 p-[5px] hover:scale-105 duration-300'>
+    <div className='relative m-4 bg-red-500 p-[5px] hover:scale-105 duration-300'>
         <Link href={`/menu/${id}`}>
         <img src={`/images/${id}.jpeg`} alt={name} className='w-[200px] rounded-lg'/>
         <div>
