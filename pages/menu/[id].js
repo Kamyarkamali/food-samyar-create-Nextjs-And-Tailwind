@@ -20,7 +20,7 @@ export default MenuId
 
 
 export async function getStaticPaths(){
-  const res=await fetch("http://localhost:4000/data")
+  const res=await fetch("https://api-food-samyar.vercel.app/data")
   const json=await res.json()
 
   const data=json.slice(0,10)
@@ -38,7 +38,7 @@ export async function getStaticPaths(){
 
 export async function getStaticProps(context){
   const {params}=context
-  const res=await fetch(`http://localhost:4000/data/${params.id}`)
+  const res=await fetch(`https://api-food-samyar.vercel.app/data/${params.id}`)
 
   const data=await res.json();
 

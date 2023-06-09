@@ -13,7 +13,7 @@ export default index
 
 
 export async function getStaticProps(){
-    const res=await fetch("http://localhost:4000/data")
+    const res=await fetch("https://api-food-samyar.vercel.app/data")
     const data=await res.json()
     return{
         props:{

@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Card from '../module/Card'
 
 function CatigorisePage({data}) {
@@ -15,6 +15,14 @@ function CatigorisePage({data}) {
 
         router.push({pathname:"catigurise",query})
     }
+
+    useEffect(()=>{
+        const {difficalty,time}=router.query
+
+        if(query.difficalty !== difficalty || query.time!==time){
+            setQuery({difficalty,time})
+        }
+    },[])
 
   return (
     <div className='max-w-[900px] m-auto mt-[100px]'>
