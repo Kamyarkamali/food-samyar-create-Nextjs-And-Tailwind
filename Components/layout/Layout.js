@@ -46,9 +46,13 @@ function Layout({children}) {
             <Link href={"/menu"}>
             <button className='bg-orange-600 h-[60px] w-[100px] text-white p-[4px] rounded-lg font-bold hover:scale-105 duration-300'>منو غذاها</button>
             </Link>
+            <Link href={"/catigurise"}>
+            <button className='bg-orange-600 h-[60px] w-[100px] text-white p-[4px] rounded-lg font-bold hover:scale-105 duration-300'>دسته بندی ها</button>
+            </Link>
             <Link href={"/"}>
             <button className='bg-blue-500 h-[60px] w-[100px] text-white p-[4px] rounded-lg font-bold hover:scale-105 duration-300'>صفحه اصلی</button>
             </Link>
+            
         </div>}
     </header>
 
