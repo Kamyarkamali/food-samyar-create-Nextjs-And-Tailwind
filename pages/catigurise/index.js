@@ -15,7 +15,7 @@ export default index
 export async function getServerSideProps(context){
   const {query:{difficulty,time}}=context
 
-  const res=await fetch("https://server-samyar-foodd.vercel.app/data")
+  const res=await fetch("https://api-food-samyar.vercel.app/data")
   const data=await res.json()
 
   const filteredData = data.filter((item) => {
